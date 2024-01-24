@@ -17,4 +17,4 @@ node_modules
 *.db
 
 #Ignore arquivo .exe
-.exe
+*.exe
